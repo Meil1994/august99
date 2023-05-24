@@ -1,0 +1,5 @@
+Encountered an issue with my computer's mysql. Instead of troubleshooting, 
+I used json file instead as a data base (substitute for mysql). I might end up 
+losing the time. However, I included the server code as reference. 
+
+npx json-server -p 5000 -w db.json to run the database. 
